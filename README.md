@@ -64,7 +64,7 @@ Marts
 ```
 
 
-# 🏗️ Arquitetura
+# WorkFlow - Step Functions
 
 <p align="center">
     <img src="./images/Step-Functions - 2.png" width="900">
