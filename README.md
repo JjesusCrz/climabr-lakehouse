@@ -17,9 +17,12 @@ O pipeline automatiza todo o fluxo de ingestão e transformação dos dados, pro
 # 🏗️ Arquitetura
 
 <p align="center">
-    <img src="./images/climabr_arquitetura.png" width="900">
+    <img src="./images/image.png" width="900">
 </p>
 
+<p align="center">
+    <img src="./images/climabr_arquitetura.png" width="900">
+</p>
 Fluxo de execução:
 
 ```text
