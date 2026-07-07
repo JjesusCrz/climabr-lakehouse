@@ -63,6 +63,21 @@ Intermediate
 Marts
 ```
 
+
+# 🏗️ Arquitetura
+
+<p align="center">
+    <img src="./images/Step-Functions - 2.png" width="900">
+</p>
+
+<p align="center">
+    <img src="./images/Step-Functions.png" width="900">
+</p>
+
+
+
+
+
 ---
 
 # 🚀 Tecnologias Utilizadas
