@@ -3,10 +3,10 @@ version: 0.2
 env:
   variables:
     DBT_DATABASE: awsdatacatalog
-    DBT_SCHEMA: <<databaseGlue>> #Colocar seu database Glue
-    S3_STAGING_DIR: s3://<<nomedoseubucket/folder>> #Colocar o nome do seu bucket
-    S3_DATA_DIR: s3://<<nomedoseubucket/folder>> #Colocar o nome do seu bucket
-    S3_DOCS_DIR: s3://<<nomedoseubucket/folder>> #Colocar o nome do seu bucket
+    DBT_SCHEMA: landing #Colocar seu database Glue
+    S3_STAGING_DIR:  s3://projeto-clima-dbt/dbt/metadados/ #Colocar o nome do seu bucket
+    S3_DATA_DIR: s3://projeto-clima-dbt/dbt/table/ #Colocar o nome do seu bucket
+    S3_DOCS_DIR:  s3://www.climabrprojeto.com         #Colocar o nome do seu bucket
     AWS_REGION: us-east-1 #Colocar sua região
 
 phases:
